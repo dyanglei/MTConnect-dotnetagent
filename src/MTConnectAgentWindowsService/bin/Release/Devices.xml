@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MTConnectDevices  xmlns="urn:mtconnect.org:MTConnectDevices:1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:mtconnect.org:MTConnectDevices:1.1 http://www.mtconnect.org/schemas/MTConnectDevices_1.1.xsd">
+  <Header version="1.1" sender="Company MTConnect Instance" creationTime="2010-08-26T19:00:47-07:00" instanceId="1" bufferSize="5000"/>
+  <Devices>
+    <Device sampleRate="10.0" name="MTConnectDevice" iso841Class="1" uuid="imts-demonstration" id="id1001">
+      <Description manufacturer="Company Name" serialNumber="Serial Number"></Description>
+      <DataItems>
+        <DataItem category="EVENT" id="id1" name="avail" type="AVAILABILITY"></DataItem>
+      </DataItems>
+      <Components>
+        <Axes name="Axes" id="id105">
+          <DataItems>
+            <DataItem type="PATH_FEEDRATE" name="path_feedratefrt" category="SAMPLE" id="id2" units="MILLIMETER/SECOND" subType="ACTUAL"></DataItem>
+          </DataItems>
+          <Components>
+            <Rotary name="C" id="c">
+              <DataItems>
+                <DataItem category="SAMPLE" id="id3" name="Srpm" type="SPINDLE_SPEED" units="REVOLUTION/MINUTE" subType="ACTUAL"></DataItem>
+              </DataItems>
+            </Rotary>
+            <Linear name="X" id="x">
+              <DataItems>
+                <DataItem category="SAMPLE" id="id4" name="Xabs" type="POSITION" units="MILLIMETER" subType="ACTUAL" ></DataItem>
+                <DataItem category="SAMPLE" id="id5" name="Xfrt" type="AXIS_FEEDRATE" units="MILLIMETER/SECOND" subType="ACTUAL" ></DataItem>
+              </DataItems>
+            </Linear>
+            <Linear name="Y" id="y">
+              <DataItems>
+                <DataItem category="SAMPLE" id="id6" name="Yabs" type="POSITION" units="MILLIMETER" subType="ACTUAL" ></DataItem>
+                <DataItem category="SAMPLE" id="id7" name="Yfrt" type="AXIS_FEEDRATE" units="MILLIMETER/SECOND" subType="ACTUAL" ></DataItem>
+              </DataItems>
+            </Linear>
+            <Linear name="Z" id="z">
+              <DataItems>
+                <DataItem category="SAMPLE" id="id8" name="Zabs" type="POSITION" units="MILLIMETER" subType="ACTUAL" ></DataItem>
+                <DataItem category="SAMPLE" id="id9" name="Zfrt" type="AXIS_FEEDRATE" units="MILLIMETER/SECOND" subType="ACTUAL" ></DataItem>
+              </DataItems>
+            </Linear>
+          </Components>
+        </Axes>
+        <Controller name="Controller" id="id106">
+          <DataItems>
+            <DataItem category="EVENT" id="id10" name="block" type="BLOCK"></DataItem>
+            <DataItem category="EVENT" id="id11" name="execution" type="EXECUTION"></DataItem>
+            <DataItem category="EVENT" id="id12" name="mode" type="CONTROLLER_MODE"></DataItem>
+            <DataItem category="EVENT" id="id13" name="program" type="PROGRAM"></DataItem>
+            <DataItem category="EVENT" id="id14" name="line" type="LINE"></DataItem>            
+            <DataItem category="CONDITION" id="id16" name="communications" type="COMMUNICATIONS"></DataItem>
+            <DataItem category="CONDITION" id="id17" name="temperature" type="TEMPERATURE"></DataItem>
+          </DataItems>
+        </Controller>        
+      </Components>
+    </Device>
+  </Devices>
+</MTConnectDevices>
+

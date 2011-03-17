@@ -1,0 +1,104 @@
+C:\Documents and Settings\Administrator\桌面\MTConnect project\src\MTConnectAgent\MTConnectAgentWindowsService\bin\Debug\Devices.xml
+C:\Documents and Settings\Administrator\桌面\MTConnect project\src\MTConnectAgent\MTConnectAgentWindowsService\bin\Debug\mtcagent.xml
+C:\Documents and Settings\Administrator\桌面\MTConnect project\src\MTConnectAgent\MTConnectAgentWindowsService\bin\Debug\MTConnectAgentWindowsService.exe
+C:\Documents and Settings\Administrator\桌面\MTConnect project\src\MTConnectAgent\MTConnectAgentWindowsService\bin\Debug\MTConnectAgentWindowsService.pdb
+C:\Documents and Settings\Administrator\桌面\MTConnect project\src\MTConnectAgent\MTConnectAgentWindowsService\bin\Debug\MTConnectAgentCore.dll
+C:\Documents and Settings\Administrator\桌面\MTConnect project\src\MTConnectAgent\MTConnectAgentWindowsService\bin\Debug\Novell.Directory.Ldap.dll
+C:\Documents and Settings\Administrator\桌面\MTConnect project\src\MTConnectAgent\MTConnectAgentWindowsService\bin\Debug\MTConnectAgentCore.pdb
+C:\Documents and Settings\Administrator\桌面\MTConnect project\src\MTConnectAgent\MTConnectAgentWindowsService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\MTConnect project\src\MTConnectAgent\MTConnectAgentWindowsService\obj\Debug\MTConnectAgentWindowsService.ProjectInstaller.resources
+C:\Documents and Settings\Administrator\桌面\MTConnect project\src\MTConnectAgent\MTConnectAgentWindowsService\obj\Debug\MTConnectAgentWindowsService.MTConnect.resources
+C:\Documents and Settings\Administrator\桌面\MTConnect project\src\MTConnectAgent\MTConnectAgentWindowsService\obj\Debug\MTConnectAgentWindowsService.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\MTConnect project\src\MTConnectAgent\MTConnectAgentWindowsService\obj\Debug\MTConnectAgentWindowsService.exe
+C:\Documents and Settings\Administrator\桌面\MTConnect project\src\MTConnectAgent\MTConnectAgentWindowsService\obj\Debug\MTConnectAgentWindowsService.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTConnectAgent\MTConnectAgentWindowsService\bin\Debug\Devices.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTConnectAgent\MTConnectAgentWindowsService\bin\Debug\mtcagent.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTConnectAgent\MTConnectAgentWindowsService\bin\Debug\MTConnectAgentWindowsService.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTConnectAgent\MTConnectAgentWindowsService\bin\Debug\MTConnectAgentWindowsService.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTConnectAgent\MTConnectAgentWindowsService\bin\Debug\MTConnectAgentCore.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTConnectAgent\MTConnectAgentWindowsService\bin\Debug\Novell.Directory.Ldap.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTConnectAgent\MTConnectAgentWindowsService\bin\Debug\MTConnectAgentCore.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTConnectAgent\MTConnectAgentWindowsService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTConnectAgent\MTConnectAgentWindowsService\obj\Debug\MTConnectAgentWindowsService.ProjectInstaller.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTConnectAgent\MTConnectAgentWindowsService\obj\Debug\MTConnectAgentWindowsService.MTConnect.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTConnectAgent\MTConnectAgentWindowsService\obj\Debug\MTConnectAgentWindowsService.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTConnectAgent\MTConnectAgentWindowsService\obj\Debug\MTConnectAgentWindowsService.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTConnectAgent\MTConnectAgentWindowsService\obj\Debug\MTConnectAgentWindowsService.pdb
+C:\Documents and Settings\Administrator\桌面\Clean MTConnectAgent\MTConnectAgent\MTConnectAgentWindowsService\bin\Debug\Devices.xml
+C:\Documents and Settings\Administrator\桌面\Clean MTConnectAgent\MTConnectAgent\MTConnectAgentWindowsService\bin\Debug\mtcagent.xml
+C:\Documents and Settings\Administrator\桌面\Clean MTConnectAgent\MTConnectAgent\MTConnectAgentWindowsService\bin\Debug\MTConnectAgentWindowsService.exe
+C:\Documents and Settings\Administrator\桌面\Clean MTConnectAgent\MTConnectAgent\MTConnectAgentWindowsService\bin\Debug\MTConnectAgentWindowsService.pdb
+C:\Documents and Settings\Administrator\桌面\Clean MTConnectAgent\MTConnectAgent\MTConnectAgentWindowsService\bin\Debug\MTConnectAgentCore.dll
+C:\Documents and Settings\Administrator\桌面\Clean MTConnectAgent\MTConnectAgent\MTConnectAgentWindowsService\bin\Debug\Novell.Directory.Ldap.dll
+C:\Documents and Settings\Administrator\桌面\Clean MTConnectAgent\MTConnectAgent\MTConnectAgentWindowsService\bin\Debug\MTConnectAgentCore.pdb
+C:\Documents and Settings\Administrator\桌面\Clean MTConnectAgent\MTConnectAgent\MTConnectAgentWindowsService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\Clean MTConnectAgent\MTConnectAgent\MTConnectAgentWindowsService\obj\Debug\MTConnectAgentWindowsService.ProjectInstaller.resources
+C:\Documents and Settings\Administrator\桌面\Clean MTConnectAgent\MTConnectAgent\MTConnectAgentWindowsService\obj\Debug\MTConnectAgentWindowsService.MTConnect.resources
+C:\Documents and Settings\Administrator\桌面\Clean MTConnectAgent\MTConnectAgent\MTConnectAgentWindowsService\obj\Debug\MTConnectAgentWindowsService.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\Clean MTConnectAgent\MTConnectAgent\MTConnectAgentWindowsService\obj\Debug\MTConnectAgentWindowsService.exe
+C:\Documents and Settings\Administrator\桌面\Clean MTConnectAgent\MTConnectAgent\MTConnectAgentWindowsService\obj\Debug\MTConnectAgentWindowsService.pdb
+C:\Documents and Settings\miyako\workspace\MTConnect_Agent\MTConnectAgent 20101110\MTConnectAgentWindowsService\bin\Debug\Devices.xml
+C:\Documents and Settings\miyako\workspace\MTConnect_Agent\MTConnectAgent 20101110\MTConnectAgentWindowsService\bin\Debug\mtcagent.xml
+C:\Documents and Settings\miyako\workspace\MTConnect_Agent\MTConnectAgent 20101110\MTConnectAgentWindowsService\bin\Debug\MTConnectAgentWindowsService.exe
+C:\Documents and Settings\miyako\workspace\MTConnect_Agent\MTConnectAgent 20101110\MTConnectAgentWindowsService\bin\Debug\MTConnectAgentWindowsService.pdb
+C:\Documents and Settings\miyako\workspace\MTConnect_Agent\MTConnectAgent 20101110\MTConnectAgentWindowsService\bin\Debug\MTConnectAgentCore.dll
+C:\Documents and Settings\miyako\workspace\MTConnect_Agent\MTConnectAgent 20101110\MTConnectAgentWindowsService\bin\Debug\MTConnectAgentCore.pdb
+C:\Documents and Settings\miyako\workspace\MTConnect_Agent\MTConnectAgent 20101110\MTConnectAgentWindowsService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\miyako\workspace\MTConnect_Agent\MTConnectAgent 20101110\MTConnectAgentWindowsService\obj\Debug\MTConnectAgentWindowsService.ProjectInstaller.resources
+C:\Documents and Settings\miyako\workspace\MTConnect_Agent\MTConnectAgent 20101110\MTConnectAgentWindowsService\obj\Debug\MTConnectAgentWindowsService.MTConnect.resources
+C:\Documents and Settings\miyako\workspace\MTConnect_Agent\MTConnectAgent 20101110\MTConnectAgentWindowsService\obj\Debug\MTConnectAgentWindowsService.csproj.GenerateResource.Cache
+C:\Documents and Settings\miyako\workspace\MTConnect_Agent\MTConnectAgent 20101110\MTConnectAgentWindowsService\obj\Debug\MTConnectAgentWindowsService.exe
+C:\Documents and Settings\miyako\workspace\MTConnect_Agent\MTConnectAgent 20101110\MTConnectAgentWindowsService\obj\Debug\MTConnectAgentWindowsService.pdb
+C:\Documents and Settings\Administrator\桌面\MTConnect-Device-SDK-v2.1.0\src\MTConnectAgent\MTConnectAgentWindowsService\bin\Debug\MTConnectDevices.xsd
+C:\Documents and Settings\Administrator\桌面\MTConnect-Device-SDK-v2.1.0\src\MTConnectAgent\MTConnectAgentWindowsService\bin\Debug\Devices.xml
+C:\Documents and Settings\Administrator\桌面\MTConnect-Device-SDK-v2.1.0\src\MTConnectAgent\MTConnectAgentWindowsService\bin\Debug\mtcagent.xml
+C:\Documents and Settings\Administrator\桌面\MTConnect-Device-SDK-v2.1.0\src\MTConnectAgent\MTConnectAgentWindowsService\bin\Debug\MTConnectAgentWindowsService.exe
+C:\Documents and Settings\Administrator\桌面\MTConnect-Device-SDK-v2.1.0\src\MTConnectAgent\MTConnectAgentWindowsService\bin\Debug\MTConnectAgentWindowsService.pdb
+C:\Documents and Settings\Administrator\桌面\MTConnect-Device-SDK-v2.1.0\src\MTConnectAgent\MTConnectAgentWindowsService\bin\Debug\MTConnectAgentCore.dll
+C:\Documents and Settings\Administrator\桌面\MTConnect-Device-SDK-v2.1.0\src\MTConnectAgent\MTConnectAgentWindowsService\bin\Debug\MTConnectAgentCore.pdb
+C:\Documents and Settings\Administrator\桌面\MTConnect-Device-SDK-v2.1.0\src\MTConnectAgent\MTConnectAgentWindowsService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\MTConnect-Device-SDK-v2.1.0\src\MTConnectAgent\MTConnectAgentWindowsService\obj\Debug\MTConnectAgentWindowsService.ProjectInstaller.resources
+C:\Documents and Settings\Administrator\桌面\MTConnect-Device-SDK-v2.1.0\src\MTConnectAgent\MTConnectAgentWindowsService\obj\Debug\MTConnectAgentWindowsService.MTConnect.resources
+C:\Documents and Settings\Administrator\桌面\MTConnect-Device-SDK-v2.1.0\src\MTConnectAgent\MTConnectAgentWindowsService\obj\Debug\MTConnectAgentWindowsService.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\MTConnect-Device-SDK-v2.1.0\src\MTConnectAgent\MTConnectAgentWindowsService\obj\Debug\MTConnectAgentWindowsService.exe
+C:\Documents and Settings\Administrator\桌面\MTConnect-Device-SDK-v2.1.0\src\MTConnectAgent\MTConnectAgentWindowsService\obj\Debug\MTConnectAgentWindowsService.pdb
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.1\src\MTConnectAgent\MTConnectAgentWindowsService\bin\Debug\MTConnectDevices.xsd
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.1\src\MTConnectAgent\MTConnectAgentWindowsService\bin\Debug\Devices.xml
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.1\src\MTConnectAgent\MTConnectAgentWindowsService\bin\Debug\mtcagent.xml
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.1\src\MTConnectAgent\MTConnectAgentWindowsService\bin\Debug\MTConnectAgentWindowsService.exe
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.1\src\MTConnectAgent\MTConnectAgentWindowsService\bin\Debug\MTConnectAgentWindowsService.pdb
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.1\src\MTConnectAgent\MTConnectAgentWindowsService\bin\Debug\MTConnectAgentCore.dll
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.1\src\MTConnectAgent\MTConnectAgentWindowsService\bin\Debug\MTConnectAgentCore.pdb
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.1\src\MTConnectAgent\MTConnectAgentWindowsService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.1\src\MTConnectAgent\MTConnectAgentWindowsService\obj\Debug\MTConnectAgentWindowsService.ProjectInstaller.resources
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.1\src\MTConnectAgent\MTConnectAgentWindowsService\obj\Debug\MTConnectAgentWindowsService.MTConnect.resources
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.1\src\MTConnectAgent\MTConnectAgentWindowsService\obj\Debug\MTConnectAgentWindowsService.csproj.GenerateResource.Cache
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.1\src\MTConnectAgent\MTConnectAgentWindowsService\obj\Debug\MTConnectAgentWindowsService.exe
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.1\src\MTConnectAgent\MTConnectAgentWindowsService\obj\Debug\MTConnectAgentWindowsService.pdb
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.1\src\MTConnectAgent\MTConnectAgentWindowsService\bin\Release\MTConnectDevices.xsd
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.1\src\MTConnectAgent\MTConnectAgentWindowsService\bin\Release\MTConnectAgentWindowsService.exe
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.1\src\MTConnectAgent\MTConnectAgentWindowsService\bin\Release\MTConnectAgentWindowsService.pdb
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.1\src\MTConnectAgent\MTConnectAgentWindowsService\bin\Release\MTConnectAgentCore.dll
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.1\src\MTConnectAgent\MTConnectAgentWindowsService\bin\Release\MTConnectAgentCore.pdb
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.2\src\MTConnectAgent\MTConnectAgentWindowsService\bin\Release\MTConnectDevices.xsd
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.2\src\MTConnectAgent\MTConnectAgentWindowsService\bin\Release\MTConnectAgentWindowsService.exe
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.2\src\MTConnectAgent\MTConnectAgentWindowsService\bin\Release\MTConnectAgentWindowsService.pdb
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.2\src\MTConnectAgent\MTConnectAgentWindowsService\bin\Release\MTConnectAgentCore.dll
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.2\src\MTConnectAgent\MTConnectAgentWindowsService\bin\Release\MTConnectAgentCore.pdb
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.2\src\MTConnectAgent\MTConnectAgentWindowsService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.2\src\MTConnectAgent\MTConnectAgentWindowsService\obj\Debug\MTConnectAgentWindowsService.ProjectInstaller.resources
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.2\src\MTConnectAgent\MTConnectAgentWindowsService\obj\Debug\MTConnectAgentWindowsService.MTConnect.resources
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.2\src\MTConnectAgent\MTConnectAgentWindowsService\obj\Debug\MTConnectAgentWindowsService.csproj.GenerateResource.Cache
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.2\src\MTConnectAgent\MTConnectAgentWindowsService\obj\Debug\MTConnectAgentWindowsService.exe
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.2\src\MTConnectAgent\MTConnectAgentWindowsService\obj\Debug\MTConnectAgentWindowsService.pdb
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.3\src\MTConnectAgent\MTConnectAgentWindowsService\obj\Debug\MTConnectAgentWindowsService.exe
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.3\src\MTConnectAgent\MTConnectAgentWindowsService\obj\Debug\MTConnectAgentWindowsService.pdb
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.3\src\MTConnectAgent\MTConnectAgentWindowsService\bin\Release\MTConnectDevices.xsd
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.3\src\MTConnectAgent\MTConnectAgentWindowsService\bin\Release\MTConnectAgentWindowsService.exe
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.3\src\MTConnectAgent\MTConnectAgentWindowsService\bin\Release\MTConnectAgentWindowsService.pdb
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.3\src\MTConnectAgent\MTConnectAgentWindowsService\bin\Release\MTConnectAgentCore.dll
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.3\src\MTConnectAgent\MTConnectAgentWindowsService\bin\Release\MTConnectAgentCore.pdb
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.3\src\MTConnectAgent\MTConnectAgentWindowsService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.3\src\MTConnectAgent\MTConnectAgentWindowsService\obj\Debug\MTConnectAgentWindowsService.ProjectInstaller.resources
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.3\src\MTConnectAgent\MTConnectAgentWindowsService\obj\Debug\MTConnectAgentWindowsService.MTConnect.resources
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.3\src\MTConnectAgent\MTConnectAgentWindowsService\obj\Debug\MTConnectAgentWindowsService.csproj.GenerateResource.Cache

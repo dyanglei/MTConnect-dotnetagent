@@ -1,0 +1,89 @@
+C:\Documents and Settings\Administrator\桌面\MTConnect project\src\MTConnectAgent\MTConnectAgentCore\bin\Debug\Devices.xml
+C:\Documents and Settings\Administrator\桌面\MTConnect project\src\MTConnectAgent\MTConnectAgentCore\bin\Debug\mtcagent.xml
+C:\Documents and Settings\Administrator\桌面\MTConnect project\src\MTConnectAgent\MTConnectAgentCore\bin\Debug\MTConnectAgentCore.dll
+C:\Documents and Settings\Administrator\桌面\MTConnect project\src\MTConnectAgent\MTConnectAgentCore\bin\Debug\MTConnectAgentCore.pdb
+C:\Documents and Settings\Administrator\桌面\MTConnect project\src\MTConnectAgent\MTConnectAgentCore\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\MTConnect project\src\MTConnectAgent\MTConnectAgentCore\obj\Debug\MTConnectAgentCore.dll
+C:\Documents and Settings\Administrator\桌面\MTConnect project\src\MTConnectAgent\MTConnectAgentCore\obj\Debug\MTConnectAgentCore.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTConnectAgent\MTConnectAgentCore\bin\Debug\Devices.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTConnectAgent\MTConnectAgentCore\bin\Debug\mtcagent.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTConnectAgent\MTConnectAgentCore\bin\Debug\MTConnectAgentCore.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTConnectAgent\MTConnectAgentCore\bin\Debug\MTConnectAgentCore.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTConnectAgent\MTConnectAgentCore\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTConnectAgent\MTConnectAgentCore\obj\Debug\MTConnectAgentCore.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\MTConnectAgent\MTConnectAgentCore\obj\Debug\MTConnectAgentCore.pdb
+C:\Documents and Settings\Administrator\桌面\Clean MTConnectAgent\MTConnectAgent\MTConnectAgentCore\bin\Debug\Devices.xml
+C:\Documents and Settings\Administrator\桌面\Clean MTConnectAgent\MTConnectAgent\MTConnectAgentCore\bin\Debug\mtcagent.xml
+C:\Documents and Settings\Administrator\桌面\Clean MTConnectAgent\MTConnectAgent\MTConnectAgentCore\bin\Debug\MTConnectAgentCore.dll
+C:\Documents and Settings\Administrator\桌面\Clean MTConnectAgent\MTConnectAgent\MTConnectAgentCore\bin\Debug\MTConnectAgentCore.pdb
+C:\Documents and Settings\Administrator\桌面\Clean MTConnectAgent\MTConnectAgent\MTConnectAgentCore\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\Clean MTConnectAgent\MTConnectAgent\MTConnectAgentCore\obj\Debug\MTConnectAgentCore.dll
+C:\Documents and Settings\Administrator\桌面\Clean MTConnectAgent\MTConnectAgent\MTConnectAgentCore\obj\Debug\MTConnectAgentCore.pdb
+C:\Documents and Settings\miyako\workspace\MTConnect_Agent\MTConnectAgent 20101110\MTConnectAgentCore\bin\Debug\Devices.xml
+C:\Documents and Settings\miyako\workspace\MTConnect_Agent\MTConnectAgent 20101110\MTConnectAgentCore\bin\Debug\mtcagent.xml
+C:\Documents and Settings\miyako\workspace\MTConnect_Agent\MTConnectAgent 20101110\MTConnectAgentCore\bin\Debug\MTConnectAgentCore.dll
+C:\Documents and Settings\miyako\workspace\MTConnect_Agent\MTConnectAgent 20101110\MTConnectAgentCore\bin\Debug\MTConnectAgentCore.pdb
+C:\Documents and Settings\miyako\workspace\MTConnect_Agent\MTConnectAgent 20101110\MTConnectAgentCore\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\miyako\workspace\MTConnect_Agent\MTConnectAgent 20101110\MTConnectAgentCore\obj\Debug\MTConnectAgentCore.dll
+C:\Documents and Settings\miyako\workspace\MTConnect_Agent\MTConnectAgent 20101110\MTConnectAgentCore\obj\Debug\MTConnectAgentCore.pdb
+C:\Documents and Settings\Administrator\桌面\MTConnect-Device-SDK-v2.1.0\src\MTConnectAgent\MTConnectAgentCore\bin\Debug\MTConnectDevices.xsd
+C:\Documents and Settings\Administrator\桌面\MTConnect-Device-SDK-v2.1.0\src\MTConnectAgent\MTConnectAgentCore\bin\Debug\Devices.xml
+C:\Documents and Settings\Administrator\桌面\MTConnect-Device-SDK-v2.1.0\src\MTConnectAgent\MTConnectAgentCore\bin\Debug\mtcagent.xml
+C:\Documents and Settings\Administrator\桌面\MTConnect-Device-SDK-v2.1.0\src\MTConnectAgent\MTConnectAgentCore\bin\Debug\MTConnectAgentCore.dll
+C:\Documents and Settings\Administrator\桌面\MTConnect-Device-SDK-v2.1.0\src\MTConnectAgent\MTConnectAgentCore\bin\Debug\MTConnectAgentCore.pdb
+C:\Documents and Settings\Administrator\桌面\MTConnect-Device-SDK-v2.1.0\src\MTConnectAgent\MTConnectAgentCore\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\MTConnect-Device-SDK-v2.1.0\src\MTConnectAgent\MTConnectAgentCore\obj\Debug\MTConnectAgentCore.dll
+C:\Documents and Settings\Administrator\桌面\MTConnect-Device-SDK-v2.1.0\src\MTConnectAgent\MTConnectAgentCore\obj\Debug\MTConnectAgentCore.pdb
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.1\src\MTConnectAgent\MTConnectAgentCore\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.1\src\MTConnectAgent\MTConnectAgentCore\obj\Debug\MTConnectAgentCore.dll
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.1\src\MTConnectAgent\MTConnectAgentCore\bin\Debug\MTConnectDevices.xsd
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.1\src\MTConnectAgent\MTConnectAgentCore\bin\Debug\Devices.xml
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.1\src\MTConnectAgent\MTConnectAgentCore\bin\Debug\mtcagent.xml
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.1\src\MTConnectAgent\MTConnectAgentCore\bin\Debug\MTConnectAgentCore.dll
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.1\src\MTConnectAgent\MTConnectAgentCore\bin\Debug\MTConnectAgentCore.pdb
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.1\src\MTConnectAgent\MTConnectAgentCore\obj\Debug\MTConnectAgentCore.pdb
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.1\src\MTConnectAgent\MTConnectAgentCore\bin\Release\MTConnectDevices.xsd
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.1\src\MTConnectAgent\MTConnectAgentCore\bin\Release\MTConnectAgentCore.dll
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.1\src\MTConnectAgent\MTConnectAgentCore\bin\Release\MTConnectAgentCore.pdb
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.2\src\MTConnectAgent\MTConnectAgentCore\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.2\src\MTConnectAgent\MTConnectAgentCore\obj\Debug\MTConnectAgentCore.dll
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.2\src\MTConnectAgent\MTConnectAgentCore\obj\Debug\MTConnectAgentCore.pdb
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.2\src\MTConnectAgent\MTConnectAgentCore\bin\Release\MTConnectDevices.xsd
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.2\src\MTConnectAgent\MTConnectAgentCore\bin\Release\MTConnectAgentCore.dll
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.2\src\MTConnectAgent\MTConnectAgentCore\bin\Release\MTConnectAgentCore.pdb
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.3\src\MTConnectAgent\MTConnectAgentCore\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.3\src\MTConnectAgent\MTConnectAgentCore\obj\Debug\MTConnectAgentCore.dll
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.3\src\MTConnectAgent\MTConnectAgentCore\bin\Release\MTConnectDevices.xsd
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.3\src\MTConnectAgent\MTConnectAgentCore\bin\Release\MTConnectAgentCore.dll
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.3\src\MTConnectAgent\MTConnectAgentCore\bin\Release\MTConnectAgentCore.pdb
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectAgent\MTConnect-Device-SDK-v2.1.3\src\MTConnectAgent\MTConnectAgentCore\obj\Debug\MTConnectAgentCore.pdb
+C:\xlst working with Firefox, Chrome\MTConnect-Device-SDK-v2.1.3\src\MTConnectAgent\MTConnectAgentCore\bin\Release\MTConnectDevices.xsd
+C:\xlst working with Firefox, Chrome\MTConnect-Device-SDK-v2.1.3\src\MTConnectAgent\MTConnectAgentCore\bin\Release\MTConnectAgentCore.dll
+C:\xlst working with Firefox, Chrome\MTConnect-Device-SDK-v2.1.3\src\MTConnectAgent\MTConnectAgentCore\bin\Release\MTConnectAgentCore.pdb
+C:\xlst working with Firefox, Chrome\MTConnect-Device-SDK-v2.1.3\src\MTConnectAgent\MTConnectAgentCore\obj\Debug\ResolveAssemblyReference.cache
+C:\xlst working with Firefox, Chrome\MTConnect-Device-SDK-v2.1.3\src\MTConnectAgent\MTConnectAgentCore\obj\Debug\MTConnectAgentCore.dll
+C:\xlst working with Firefox, Chrome\MTConnect-Device-SDK-v2.1.3\src\MTConnectAgent\MTConnectAgentCore\obj\Debug\MTConnectAgentCore.pdb
+C:\xlst working with Firefox, Chrome\MTConnect-Device-SDK-v2.1.4\src\MTConnectAgent\MTConnectAgentCore\bin\Release\MTConnectDevices.xsd
+C:\xlst working with Firefox, Chrome\MTConnect-Device-SDK-v2.1.4\src\MTConnectAgent\MTConnectAgentCore\bin\Release\MTConnectAgentCore.dll
+C:\xlst working with Firefox, Chrome\MTConnect-Device-SDK-v2.1.4\src\MTConnectAgent\MTConnectAgentCore\bin\Release\MTConnectAgentCore.pdb
+C:\xlst working with Firefox, Chrome\MTConnect-Device-SDK-v2.1.4\src\MTConnectAgent\MTConnectAgentCore\obj\Debug\ResolveAssemblyReference.cache
+C:\xlst working with Firefox, Chrome\MTConnect-Device-SDK-v2.1.4\src\MTConnectAgent\MTConnectAgentCore\obj\Debug\MTConnectAgentCore.dll
+C:\xlst working with Firefox, Chrome\MTConnect-Device-SDK-v2.1.4\src\MTConnectAgent\MTConnectAgentCore\obj\Debug\MTConnectAgentCore.pdb
+C:\Documents and Settings\Administrator\Desktop\MTConnect-Device-SDK-v2.1.4\MTConnect-Device-SDK-v2.1.4\src\MTConnectAgent\MTConnectAgentCore\bin\Release\MTConnectDevices.xsd
+C:\Documents and Settings\Administrator\Desktop\MTConnect-Device-SDK-v2.1.4\MTConnect-Device-SDK-v2.1.4\src\MTConnectAgent\MTConnectAgentCore\bin\Release\MTConnectAgentCore.dll
+C:\Documents and Settings\Administrator\Desktop\MTConnect-Device-SDK-v2.1.4\MTConnect-Device-SDK-v2.1.4\src\MTConnectAgent\MTConnectAgentCore\bin\Release\MTConnectAgentCore.pdb
+C:\Documents and Settings\Administrator\Desktop\MTConnect-Device-SDK-v2.1.4\MTConnect-Device-SDK-v2.1.4\src\MTConnectAgent\MTConnectAgentCore\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\MTConnect-Device-SDK-v2.1.4\MTConnect-Device-SDK-v2.1.4\src\MTConnectAgent\MTConnectAgentCore\obj\Debug\MTConnectAgentCore.dll
+C:\Documents and Settings\Administrator\Desktop\MTConnect-Device-SDK-v2.1.4\MTConnect-Device-SDK-v2.1.4\src\MTConnectAgent\MTConnectAgentCore\obj\Debug\MTConnectAgentCore.pdb
+C:\xlst working with Firefox\MTConnect-Device-SDK-v2.1.5\MTConnect-Device-SDK-v2.1.5\src\MTConnectAgent\MTConnectAgentCore\obj\Debug\ResolveAssemblyReference.cache
+C:\xlst working with Firefox\MTConnect-Device-SDK-v2.1.5\MTConnect-Device-SDK-v2.1.5\src\MTConnectAgent\MTConnectAgentCore\obj\Debug\MTConnectAgentCore.dll
+C:\xlst working with Firefox\MTConnect-Device-SDK-v2.1.5\MTConnect-Device-SDK-v2.1.5\src\MTConnectAgent\MTConnectAgentCore\bin\Release\MTConnectDevices.xsd
+C:\xlst working with Firefox\MTConnect-Device-SDK-v2.1.5\MTConnect-Device-SDK-v2.1.5\src\MTConnectAgent\MTConnectAgentCore\bin\Release\MTConnectAgentCore.dll
+C:\xlst working with Firefox\MTConnect-Device-SDK-v2.1.5\MTConnect-Device-SDK-v2.1.5\src\MTConnectAgent\MTConnectAgentCore\bin\Release\MTConnectAgentCore.pdb
+C:\xlst working with Firefox\MTConnect-Device-SDK-v2.1.5\MTConnect-Device-SDK-v2.1.5\src\MTConnectAgent\MTConnectAgentCore\obj\Debug\MTConnectAgentCore.pdb
+C:\xlst working with Firefox\MTConnect-Device-SDK-v2.1.6\src\MTConnectAgentCore\bin\Release\MTConnectDevices.xsd
+C:\xlst working with Firefox\MTConnect-Device-SDK-v2.1.6\src\MTConnectAgentCore\bin\Release\MTConnectAgentCore.dll
+C:\xlst working with Firefox\MTConnect-Device-SDK-v2.1.6\src\MTConnectAgentCore\bin\Release\MTConnectAgentCore.pdb
+C:\xlst working with Firefox\MTConnect-Device-SDK-v2.1.6\src\MTConnectAgentCore\obj\Debug\ResolveAssemblyReference.cache
+C:\xlst working with Firefox\MTConnect-Device-SDK-v2.1.6\src\MTConnectAgentCore\obj\Debug\MTConnectAgentCore.dll
+C:\xlst working with Firefox\MTConnect-Device-SDK-v2.1.6\src\MTConnectAgentCore\obj\Debug\MTConnectAgentCore.pdb
